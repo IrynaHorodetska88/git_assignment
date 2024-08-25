@@ -38,3 +38,4 @@ The main branch is the original thread of code for a project's codebase. The mai
 h. Besides our initial commit if it is a new repository, should we directly push our changes directly into the main branch?
 
 We can create another branch to which we can push
+
