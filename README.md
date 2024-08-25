@@ -1,1 +1,1 @@
-# Git Assignment - <Checking IrynaHorodetska88>
+# Git Assignment - Checking IrynaHorodetska88>
